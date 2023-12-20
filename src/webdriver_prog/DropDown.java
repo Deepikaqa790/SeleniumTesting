@@ -32,6 +32,7 @@ public class DropDown {
 		System.out.println("Selected Value Is Grid");
 		Thread.sleep(3000);
 		driver.close();
+		System.out.println("Firefox closed successfully");
 	}
 
 }
